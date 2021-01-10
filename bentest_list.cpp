@@ -2,6 +2,8 @@
 #include <string>
 #include "List.h"
 
+// All work below was written by Benjamin Zech. Do not steal
+
 using namespace std;
 using namespace cop4530;
 
