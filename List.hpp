@@ -1,6 +1,6 @@
 /*			List.hpp
-	Ben Zech ( bz19 )	Assignment 2
-	COP4530 Bob Myers	Due Thurs. October 8th, 11:59pm
+	Ben Zech		10/8/2020
+	All work below was written by Benjamin Zech. Do not steal
 */
 
 /*  Private Data for Node
