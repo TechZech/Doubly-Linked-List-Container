@@ -3,6 +3,8 @@
 #include <iostream>
 #include <initializer_list>
 
+// All work below was written by Benjamin Zech. Do not steal
+
 namespace cop4530 {
 
  template <typename T>
